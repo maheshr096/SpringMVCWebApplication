@@ -100,7 +100,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			<configuration>
-        <packaging>war</packaging>
+        <packaging>jar</packaging>
     </configuration></plugin>
 			<plugin>
 				<groupId>org.sonarsource.scanner.maven</groupId>
