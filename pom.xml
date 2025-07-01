@@ -28,7 +28,7 @@
 		<url />
 	</scm>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 
 		<sonar.projectKey>coupling</sonar.projectKey>
 		<sonar.host.url>http://localhost:9099</sonar.host.url>
